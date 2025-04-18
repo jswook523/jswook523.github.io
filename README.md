@@ -6,4 +6,4 @@
 
 [**homework2-3**](https://jswook523.github.io/homework2-3.html).
 
-[**homework2-4**](https://jswook523.github.io/homework2-4.html).
+[**homework2-4**](https://jswook523.github.io/homwork2-4.html).
