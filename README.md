@@ -8,10 +8,10 @@
 
 [**homework2-4**](https://jswook523.github.io/homwork2-4.html).
 
-[**homework3-1**](https://jswoook523.github.io/homework3-1.png).
+[**homework3-1**](http://localhost/homework3-1.php).
 
-[**homework3-2**](https://jswoook523.github.io/homework3-2.png).
+[**homework3-2**](http://localhost/homework3-2.php).
 
 [**homework3-3**](http://localhost/homework3-3.php).
 
-[**homework3-5**](https://jswoook523.github.io/homework3-5.png).
+[**homework3-5**](http://localhost/homework3-5.php).
