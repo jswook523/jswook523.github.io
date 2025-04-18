@@ -12,6 +12,6 @@
 
 [**homework3-2**](https://jswoook523.github.io/homework3-2.png).
 
-[**homework3-3**](https://jswoook523.github.io/homework3-3.png).
+[**homework3-3**](http://localhost/homework3-3.php).
 
 [**homework3-5**](https://jswoook523.github.io/homework3-5.png).
